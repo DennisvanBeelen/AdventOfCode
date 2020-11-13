@@ -38,7 +38,8 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="DayOneChallengeOne.cs" />
+        <Compile Include="challenges\DayOneChallengeOne.cs" />
+        <Compile Include="challenges\DayTwo.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

@@ -10,13 +10,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TwentyNineteen/assets/spaceCraftMass.txt" />
-        <option value="$PROJECT_DIR$/TwentyNineteen/Program.cs" />
         <option value="$PROJECT_DIR$/TwentyNineteen/assets/spaceCraftMassTest.txt" />
         <option value="$PROJECT_DIR$/TwentyNineteen/DayOneChallengeOne.cs" />
+        <option value="$PROJECT_DIR$/TwentyNineteen/Program.cs" />
+        <option value="$PROJECT_DIR$/TwentyNineteen/challenges/DayTwo.cs" />
       </list>
     </option>
   </component>
@@ -66,37 +70,42 @@
       <option name="presentableId" value="Default" />
       <updated>1605210793300</updated>
       <workItem from="1605210797613" duration="2984000" />
+      <workItem from="1605280109023" duration="4583000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1605213806935">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1605284730046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605213806935" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1605213806935">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605284730046" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1605284730046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605213806935" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1605213806935">
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605284730046" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1605284730046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605213806935" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1605213806935">
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605284730046" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1605284730046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605213806935" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605284730046" />
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1605210886076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605210886076" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605283511243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1605283511243" />
   </component>
 </project>

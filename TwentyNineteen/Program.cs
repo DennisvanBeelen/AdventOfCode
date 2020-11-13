@@ -6,9 +6,10 @@ namespace TwentyNineteen
     {
         public static void Main(string[] args)
         {
-            var challenge = new DayOneChallengeOne();
+            var challenge = new DayTwo();
             
-            challenge.CalculateFuelNeededWithItsOwnFuel();
+            // challenge.SimpleReadCode();
+            challenge.BruteForceIntputFromAnwer(19690720);
 
         }
     }
