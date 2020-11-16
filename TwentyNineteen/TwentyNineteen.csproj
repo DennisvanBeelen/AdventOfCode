@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="challenges\DayOneChallengeOne.cs" />
+        <Compile Include="challenges\DayThree.cs" />
         <Compile Include="challenges\DayTwo.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />

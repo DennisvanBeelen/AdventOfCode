@@ -14,6 +14,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="challenges" t="Include">
           <e p="DayOneChallengeOne.cs" t="Include" />
+          <e p="DayThree.cs" t="Include" />
           <e p="DayTwo.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
